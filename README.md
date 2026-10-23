@@ -148,4 +148,4 @@ This repository and its technical specifications are licensed under the **Creati
 
 
 * **Prohibited:** Commercial implementation, production deployment, or redistribution for profit without an explicit agreement is strictly prohibited.
-* **Inquiries:** For commercial licensing or hiring inquiries, contact **mgmtparker@gmail.com**.
+
