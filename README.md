@@ -140,3 +140,12 @@ I am a **Founder & Product Strategist** specializing in developer tools, AI infr
 
 I’ve mapped out the full product roadmap, formal protocol specifications, and enterprise deployment models for this architecture. I am actively looking for **Head of Product / VP of Product roles** (with meaningful equity) at venture-backed AI platforms, cloud IDEs, or developer infrastructure companies looking to execute this exact strategy.
 
+---
+
+## License & Intellectual Property
+
+This repository and its technical specifications are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. 
+
+
+* **Prohibited:** Commercial implementation, production deployment, or redistribution for profit without an explicit agreement is strictly prohibited.
+* **Inquiries:** For commercial licensing or hiring inquiries, contact **mgmtparker@gmail.com**.
